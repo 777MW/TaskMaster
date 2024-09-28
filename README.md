@@ -1,2 +1,3 @@
-# TaskMaster
-TaskMaster is a console-based to-do list application that demonstrates Java's core file handling and list management capabilities for a seamless task tracking experience.
+**TaskMaster** is a console-based to-do list application that leverages core Java features to provide a simple yet effective task management solution. The application reads from and writes to a persistent text file, ensuring that users' to-do items are always saved and updated in real-time. **TaskMaster** showcases the power of Java's file handling and collection manipulation capabilities, allowing users to easily add new tasks, mark items as complete, and keep their to-do list neatly ordered.
+
+Utilizing Java’s `java.nio` library for efficient file operations and `java.util` for dynamic list management, **TaskMaster** seamlessly integrates file I/O, list handling, and user input processing. This project demonstrates a practical implementation of Java’s standard libraries, highlighting how these core features can be used to build real-world applications that are both functional and user-friendly.
